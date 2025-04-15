@@ -1,0 +1,5 @@
+{
+  "GuiName": "Test1",
+  "PrimaryUserListUrl": "https://raw.githubusercontent.com/ваш_репозиторий/main/users.txt",
+  "BackupUserListUrl": "https://raw.githubusercontent.com/ваш_репозиторий/main/users_backup.txt"
+}
